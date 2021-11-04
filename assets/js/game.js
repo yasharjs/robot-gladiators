@@ -184,4 +184,4 @@ var shop = function(){
     }
 };
 
-//startGame();
+startGame();
